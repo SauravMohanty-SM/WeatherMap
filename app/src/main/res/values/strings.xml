@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weather Map</string>
+    <string name="default_location">Fetching Location</string>
+    <string name="default_temp">NA</string>
+    <string name="change_city_description">Click Here to Change City</string>
+    <string name="weather_description">This is the weather symbol</string>
+    <string name="back_button_description">Dismiss Change City Screen</string>
+    <string name="get_weather">Change City</string>
+    <string name="default_query">Enter city name</string>
+    <string name="left_button">Left Button</string>
+    <string name="change_city_view">Change City View</string>
+    <string name="change_city">Change City</string>
+    <string name="ente_city_name">Ente City Name</string>
+    <string name="area">Fetching Details</string>
+
+</resources>
